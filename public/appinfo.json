@@ -1,0 +1,13 @@
+{
+    "id": "com.adec.tvcorp",
+    "version": "1.0.0",
+    "vendor": "ADEC",
+    "type": "web",
+    "main": "index.html",
+    "title": "TV Corp ADEC",
+    "icon": "icon.png",
+    "largeIcon": "largeIcon.png",
+    "bgColor": "#081425",
+    "iconColor": "#081425",
+    "resolution": "1920x1080"
+}

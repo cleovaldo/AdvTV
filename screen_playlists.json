@@ -1,0 +1,17 @@
+{
+  "s1": {
+    "playlist": [
+      {
+        "id": "p-1775063784123",
+        "assetId": "1775063781234",
+        "title": "Welcome Slide",
+        "duration": "10s",
+        "type": "image",
+        "thumbnail": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&q=80&w=400",
+        "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&q=80&w=1200",
+        "updatedAt": "Template"
+      }
+    ],
+    "timestamp": 1775063784123
+  }
+}
